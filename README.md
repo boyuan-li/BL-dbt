@@ -2,7 +2,7 @@
 
 ## Install
 
-Install Homebrew
+Install [Homebrew](http://brew.sh/)
 
 
 ```
