@@ -1,6 +1,6 @@
 # BL-dbt
 
-## Install
+## Install dbt
 
 Install [Homebrew](http://brew.sh/)
 
