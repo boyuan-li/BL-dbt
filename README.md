@@ -17,3 +17,7 @@ brew install dbt
 brew update
 brew upgrade dbt
 ```
+
+## Tutorial 
+
+[Getting started](https://docs.getdbt.com/tutorial/setting-up)
